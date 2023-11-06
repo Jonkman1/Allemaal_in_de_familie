@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Allemaal in de familie"
+
+  page-footer:
+    left: |
+      Bärbel Bukowski, Peter van Leeuwen, Ineke Siersema, Harrie Jonkman, Honorata Mazapus, Florian van Leeuwen, Leonie Velzeboer, Vincent van Leeuwen en Sal Jonkman.
+    right: |
+      Dit boek is gemaakt ter gelegenheid van de geboorte van Lieve Schat.
+  # cover-image: images/Screenshot.png
+  # favicon: cover.png
+  repo-branch: main
+  date: "11-22-2023"
+  chapters:
+    - index.qmd
+    - 01_Rosa.qmd
+    - 02_Ivo.qmd
+    - 03_Barbel.qmd
+    - 04_Peter.qmd
+    - 05_Ineke.qmd
+    - 06_Harrie.qmd
+    - 07_Honorata.qmd
+    - 08_Florian.qmd
+    - 09_Leonie.qmd
+    - 10_Vincent.qmd
+    - 11_Sal.qmd
+
+
+format:
+   html:
+    theme:
+      - cosmo
+    code-link: true
+
+
+editor: visual
+
