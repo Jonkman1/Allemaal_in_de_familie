@@ -13,20 +13,18 @@ book:
   # cover-image: images/Screenshot.png
   # favicon: cover.png
   repo-branch: main
-  date: "11-22-2023"
+  date: "12-07-2023"
   chapters:
     - index.qmd
-    - 01_Rosa.qmd
-    - 02_Ivo.qmd
-    - 03_Barbel.qmd
-    - 04_Peter.qmd
-    - 05_Ineke.qmd
-    - 06_Harrie.qmd
-    - 07_Honorata.qmd
-    - 08_Florian.qmd
-    - 09_Leonie.qmd
-    - 10_Vincent.qmd
-    - 11_Sal.qmd
+    - 01_Barbel.qmd
+    - 02_Peter.qmd
+    - 03_Ineke.qmd
+    - 04_Harrie.qmd
+    - 05_Honorata.qmd
+    - 06_Florian.qmd
+    - 07_Leonie.qmd
+    - 08_Vincent.qmd
+    - 09_Sal.qmd
 
 
 format:
